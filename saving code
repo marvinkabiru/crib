@@ -1,0 +1,60 @@
+ <div id="container">
+              
+                
+              </div>
+              <div class="container">
+                    <img src="crib6.jpg" alt="Avatar" id="image left" style="width:100%">
+                    <img src="crib7.jpg" alt="Avatar" id="image right" style="width:100%">
+                    <img src="crib8.jpg" alt="Avatar" id="image left" style="width:100%">
+                    <img src="crib9.jpg" alt="Avatar" id="image right" style="width:100%">
+                    <img src="crib5.jpg" alt="Avatar" id="image left" style="width:100%">
+                    <img src="crib4.jpg" alt="Avatar" id="image right" style="width:100%">
+                    <img src="crib3.jpg" alt="Avatar" id="image left" style="width:100%">
+                    <img src="crib2.jpg" alt="Avatar" id="image right" style="width:100%">
+                    
+                    
+                    </div>
+            </div>   
+
+
+
+
+
+
+           #container {
+    position: relative;
+    width: 50%;
+  }
+  
+  #image #left {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  #image #right {
+    opacity: 1;
+    display: block;
+    width: 100%;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+  }
+  
+  #container:hover .image {
+    opacity: 0.3;
+  }
+  
+  
+  }
+  
+  .text {
+    background-color: #4CAF50;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+  }
+ 
+   
