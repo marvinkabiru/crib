@@ -19,8 +19,6 @@ html, body{
     font-style: italic;
     color:black;
     padding-left: 60px;
-    
-   
 }
 #topbar #right{
     width:40%;
@@ -178,51 +176,3 @@ html, cbody{
     color:greenyell0w; 
     font-style:oblique; 
 }
-#crib2body{
-    background-color: rgb(131, 131, 211);
-}
-#crib2p{
-    height: 100px;
-    padding-left:40px;
-    background-size: cover;
-    font-size: 30px; 
-    font-style:oblique;
-    color:greenyell0w;     
-}
-#crib3body{
-    background-color: rgb(131, 131, 211);
-}
-#crib3p{
-    height: 100px;
-    padding-left:40px;
-    background-size: cover;
-    font-size: 30px; 
-    font-style:oblique;
-    color:greenyell0w;     
-}
-#crib4body{
-    background-color: rgb(131, 131, 211);
-}
-#crib4p{
-    height: 100px;
-    padding-left:40px;
-    background-size: cover;
-    font-size: 30px; 
-    font-style:oblique;
-    color:greenyell0w;     
-}
-#crib5body{
-    background-color: rgb(131, 131, 211);
-}
-#crib5p{
-    height: 100px;
-    padding-left:40px;
-    background-size: cover;
-    font-size: 30px; 
-    font-style:oblique;
-    color:greenyell0w;     
-}
-
-
- 
-    
